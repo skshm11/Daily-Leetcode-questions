@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +48,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
