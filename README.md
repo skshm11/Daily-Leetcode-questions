@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
@@ -57,4 +59,8 @@
 | [0231-power-of-two](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
