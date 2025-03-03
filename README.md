@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
+| [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
+| [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0011-container-with-most-water) |
+| [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
