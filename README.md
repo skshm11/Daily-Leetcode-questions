@@ -74,4 +74,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1708-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1708-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
