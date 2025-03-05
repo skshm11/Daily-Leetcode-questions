@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
