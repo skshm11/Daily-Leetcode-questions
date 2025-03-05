@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0342-power-of-four) |
@@ -62,6 +63,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0342-power-of-four) |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1708-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
