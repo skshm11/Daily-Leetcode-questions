@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
@@ -75,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
 ## String Matching
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
