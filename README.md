@@ -41,6 +41,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
