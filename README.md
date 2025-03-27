@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
@@ -134,4 +135,5 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
