@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
@@ -124,6 +126,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
