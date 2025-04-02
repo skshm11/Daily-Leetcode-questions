@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -135,5 +137,6 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
