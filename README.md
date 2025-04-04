@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
@@ -41,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
