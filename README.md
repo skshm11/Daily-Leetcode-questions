@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
@@ -46,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -137,6 +141,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -147,4 +152,8 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
