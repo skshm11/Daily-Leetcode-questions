@@ -29,6 +29,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0326-power-of-three](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,4 +168,5 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
