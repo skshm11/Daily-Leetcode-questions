@@ -20,6 +20,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1708-design-parking-system) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
 | ------- |
