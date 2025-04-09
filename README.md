@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -33,6 +34,7 @@
 | [0063-unique-paths-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
