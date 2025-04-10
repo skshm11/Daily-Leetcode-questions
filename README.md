@@ -40,6 +40,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
