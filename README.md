@@ -37,6 +37,7 @@
 | [0120-triangle](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
@@ -131,6 +132,7 @@
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
