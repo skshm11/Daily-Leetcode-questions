@@ -20,6 +20,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
@@ -37,6 +38,7 @@
 | [0120-triangle](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1013-fibonacci-number) |
