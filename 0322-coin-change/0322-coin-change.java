@@ -10,7 +10,7 @@ class Solution {
 
     private int helper(int i, int t, int[] coins, int[][] dp){
         //base case
-        if(t == 0) return 0;
+        //if(t == 0) return 0;
         if(i == 0){
             if(t % coins[i] == 0) return t/coins[i];
             else{
