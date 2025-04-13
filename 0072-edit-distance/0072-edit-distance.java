@@ -23,3 +23,7 @@ class Solution {
         }
     }
 }
+
+// Time Complexity: O(m*n)
+// Space Complexity: O(m*n) + O(m+n)
+//Reason: We are using a recursion stack space(O(N+M)) and a 2D array ( O(N*M)).
