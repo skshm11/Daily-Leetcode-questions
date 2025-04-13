@@ -1,11 +1,11 @@
 class Solution {
     public int minInsertions(String s) {
         int n = s.length();
-        StringBuilder sb = new StringBuilder(s);
-        String reversed = sb.reverse().toString();
+        StringBuilder sb = new StringBuilder(s); 
+        String reversed = sb.reverse().toString(); // o(n)
 
         // Fixing overlapping intervals
-        int[][] dp = new int[n][n];
+        int[][] dp = new int[n][n]; // o(n^2)
         for(int[] row : dp){
             Arrays.fill(row, -1);
         }
@@ -28,3 +28,7 @@ class Solution {
         }
     }
 }
+
+// TC Recursion without memoisation: o(2^n) => 2 choices for all the cases
+// TC Recursion with memoisation:o(n^2) => this is reduced because now we are storing values in dp array, therefore curbing the merging overlap problem! n^2 because i1 and can be n different values each (0 to n-1). (n * n) 
+// SC : o(n^2) -> dp array + recursion stack space
