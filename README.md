@@ -38,6 +38,7 @@
 | [0063-unique-paths-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
@@ -138,6 +139,7 @@
 | [0008-string-to-integer-atoi](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0344-reverse-string) |
