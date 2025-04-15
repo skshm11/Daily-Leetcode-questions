@@ -8,16 +8,10 @@ class Solution {
 
         if(nums.length==1)return nums[0];
 
-        for(int i= 0; i< n;i++){
-
-           
+        for(int i= 0; i< n;i++){       
             if(i!=0) l1[i] = nums[i];
             if(i!= n - 1) l2[i] = nums[i];
         }
-        
-
-        for(int num:l1) System.out.println(num);
-        for(int num:l2) System.out.println(num);
 
         int[] dp1 = new int[n];
         int[] dp2 = new int[n];
