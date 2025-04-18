@@ -1,21 +1,25 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        if(nums == null || nums.length == 0) return 0;
+        int n = nums.length;
+        int[][] dp = new int[n][n+1];
+        for(int[] row : dp) Arrays.fill(row, -1);
+        return helper(0,-1,nums,dp);
+    }
 
-        int maxLen = 1;
-        int[] dp = new int[nums.length];
-        Arrays.fill(dp,1);
+    public int helper(int ind, int prev, int[] nums, int[][] dp){
+        
+        if(ind == nums.length) return 0;
+        
+        // co-ordinate shift because you can't store -1 but you can store
+        // n + 1 index
+        if(dp[ind][prev + 1] != -1) return dp[ind][prev + 1];
 
-        for(int i = 1; i< nums.length; i++){
-            for(int j = 0; j<i; j++){
-                if(nums[i] > nums[j]){
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
-                }
-            }
+        int notTake = helper(ind+1, prev, nums, dp);
+        int take = 0;
 
-            maxLen = Math.max(maxLen, dp[i]);
-        }
+        if(prev == -1 || nums[ind] > nums[prev])
+        take = 1 + helper(ind + 1, ind, nums, dp);
 
-        return maxLen;
+        return dp[ind][prev + 1] = Math.max(take, notTake);
     }
 }
