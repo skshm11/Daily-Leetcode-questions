@@ -11,7 +11,7 @@ class Solution {
         if(ind == nums.length) return 0;
         
         // co-ordinate shift because you can't store -1 but you can store
-        // n + 1 index
+        // n + 1 index in dp array as -1 can not be an index. 
         if(dp[ind][prev + 1] != -1) return dp[ind][prev + 1];
 
         int notTake = helper(ind+1, prev, nums, dp);
