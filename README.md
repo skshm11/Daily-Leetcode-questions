@@ -155,6 +155,7 @@
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
@@ -184,6 +185,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0253-meeting-rooms-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -216,4 +218,20 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0494-target-sum) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
