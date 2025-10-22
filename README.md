@@ -107,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0231-power-of-two) |
@@ -142,6 +143,7 @@
 | [0008-string-to-integer-atoi](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/0043-multiply-strings) |
 | [1708-design-parking-system](https://github.com/skshm11/Daily-Leetcode-questions/tree/master/1708-design-parking-system) |
 ## Counting
 |  |
